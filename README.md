@@ -4,7 +4,7 @@ Is there anything to write here?
 Come on, I think everyone has known about this for a long time.
 
 ## Original:
-https://data.source.wf/arbys.txt
+https://browse.wf/arbys.txt
 ```
 1718031600,SolNode412
 1718035200,SolNode100
@@ -14,7 +14,7 @@ https://data.source.wf/arbys.txt
 
 ## Digested:
 https://raw.githubusercontent.com/ix1le/warframe-arbitrations/main/arbys.json
-```
+```js
 [
     {
         "start": 1718031600,
